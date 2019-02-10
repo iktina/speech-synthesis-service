@@ -47,4 +47,4 @@ Input text:
 "After a time she heard a little pattering of feet in the distance, and she hastily dried her eyes to see what was coming."
 
 Response:
-[sample.wav](https://gw9tqq89vhtinphcj3aaxt7yycygvixuqhmo.naint.ru/attachments/346/nss_sample.wav)
+samples/sample.wav
