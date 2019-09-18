@@ -7,7 +7,7 @@ The service receives a text file and uses it as input to the composition of pre-
 
 ## What’s the point?
 
-The service makes text recognition using machine learning techniques.
+The service makes text to speech transfer using machine learning techniques.
 The service outputs a binary audio data containing text recorded in the specified text file voiced by the synthesized voice.
 
 ## Model details:
